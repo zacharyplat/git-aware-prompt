@@ -1,4 +1,6 @@
 # Git Aware Prompt
+I've forked this to add my own setup and indications of where your branch is
+ahead or behind
 
 Working with Git and its great branching/merging features is
 amazing. Constantly switching branches can be confusing though as you have to
